@@ -1,3 +1,4 @@
+[![Build, Test](https://github.com/Krnvaa/Drawing_nested_rectangles/actions/workflows/python-app.yml/badge.svg)](https://github.com/Krnvaa/Drawing_nested_rectangles/actions/workflows/python-app.yml)
 # Лабораторная работа по дисциплине "Компьютерная графика" №1. 
 ![alt text](https://github.com/Krnvaa/Drawing_nested_rectangles/blob/main/SSAU.svg)
 # Описание задачи
