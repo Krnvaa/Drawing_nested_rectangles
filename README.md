@@ -23,4 +23,4 @@
 ## Установка и запуск
 1. ```git clone https://github.com/Krnvaa/Drawing_nested_rectangles.git```
 2. ```cd <project_folder>```
-3. ```python3.9 main.py```
+3. ```python main.py```
